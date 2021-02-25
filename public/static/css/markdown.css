@@ -1,0 +1,216 @@
+
+
+.mk-l hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 1px solid #eee;
+    color: #222;
+}
+
+.mk-l * {
+  font-size: 16px;
+  line-height: 1.6em;
+}
+
+.mk-l p {
+  margin-bottom: 20px;
+}
+
+.mk-l h1 {
+  font-size: 27px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-l h2 {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-l h3 {
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-l h4 {
+  font-size: 21px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-l h5 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-l h6 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-l blockquote {
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  border-left: 5px solid #eee;
+}
+
+.mk-l pre {
+  padding: 12px;
+  background-color: rgba(0,0,0,0.05);
+  border-radius: 5px;
+  margin-bottom: 10px
+}
+
+.mk-l li {
+  padding: 4px 0;
+}
+
+.mk-l ul {
+  margin: 10px 0;
+  padding-left: 30px;
+}
+
+.mk-l ol {
+  margin: 10px 0;
+  padding-left: 30px;
+}
+
+.mk-l ul li {
+  list-style-type: disc;
+}
+
+.mk-l ol li {
+  list-style-type: decimal;
+}
+
+.mk-l a {
+  color: #5B25EC;
+  border-bottom: 1px solid #5B25EC;
+  transition: color 0.5s, border-color 0.5s;
+}
+
+.mk-l a:hover {
+  opacity: 0.7;
+  color: #5B25EC;
+  border-color: transparent;
+}
+
+.mk-l img {
+  width: auto;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+.mk-d hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #aaa;
+}
+
+.mk-d * {
+  font-size: 16px;
+  line-height: 1.6em;
+  color: #fff;
+}
+
+.mk-d p {
+  margin: 15px 0;
+}
+
+.mk-d h1 {
+  font-size: 27px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-d h2 {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-d h3 {
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-d h4 {
+  font-size: 21px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-d h5 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-d h6 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 25px 0;
+}
+
+.mk-d blockquote {
+  margin: 15px 0;
+  padding: 15px 20px;
+  border-left: 5px solid #eee;
+}
+
+.mk-d pre {
+  padding: 12px;
+  background-color: rgba(255,255,255,0.1);
+  border-radius: 5px;
+  margin: 15px 0;
+}
+
+
+.mk-d ul {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+
+.mk-d ol {
+  margin: 8px 0 15px 0;
+  padding-left: 30px;
+}
+
+.mk-d ul li {
+  list-style-type: disc;
+}
+
+.mk-d ol li {
+  list-style-type: decimal;
+}
+
+.mk-d a {
+  color: #5B25EC;
+  border-bottom: 1px solid #5B25EC;
+  transition: color 0.5s, border-color 0.5s;
+}
+
+.mk-d a:hover {
+  opacity: 0.7;
+  color: #5B25EC;
+  border-color: transparent;
+}
+
+.mk-d img {
+  width: auto;
+  height: auto;
+  margin: 15px 0;
+}
