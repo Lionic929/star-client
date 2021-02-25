@@ -1,0 +1,12 @@
+{
+  "FORM": {
+    "TITLE": "Войти",
+    "LOGIN": "Логин или почта",
+    "PASSWORD": "Пароль",
+    "BUTTON_SUBMIT": "Войти"
+  },
+  "LINK": {
+    "SIGNUP": "Создать аккаунт",
+    "FORGOT_PASSWORD": "Забыл пароль"
+  }
+}

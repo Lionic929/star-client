@@ -1,0 +1,18 @@
+{
+  "PAGE": {
+    "TITLE": "Что-то пошло не так.",
+    "ACCESS_DENIED": "Вы не имеете доступ к данной странице",
+    "NOT_FOUND": "Страница не найдена. Может быть, вы ошиблись адресом, либо она была перемещена.",
+    "LINK": "Вернуться на главную"
+  },
+  "LOGIN_COULDNT_FOUND_USER": "Пользователя с таким логином не существует",
+  "LOGIN_UNCORRECT_PASSWORD_OR_LOGIN": "Неверный логин или пароль",
+  "INTERNAL_SERVER_ERROR": "Ошибка сервера",
+  "AUTH_RESET_USER_HAVENT_PGP": "Этот пользователь не имеет PGP ключа",
+  "AUTH_RESET_UNCORRECT_USER_PGP": "У этого пользователя установлен неправильный PGP ключ",
+  "AUTH_RESET_BAD_CONFIRM_CODE": "Неправильный расшифрованный ключ",
+  "AUTH_UNCORRECT_CURRENT_PASSWORD": "Неверный пароль",
+  "SETTINGS_NEW_EMAIL_IS_CURRENT": "Вы ввели текущую почту",
+  "COULDNT_FOUND_USER_BY_EMAIL_FOR_RESET": "Пользователь с данной почтой не найден",
+  "AUTH_BAD_CONFIRM_CODE": "Неверный код подтверждения"
+}

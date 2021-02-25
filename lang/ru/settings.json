@@ -1,0 +1,27 @@
+{
+  "UPDATE_EMAIL": {
+    "FORM": {
+      "TITLE": "Изменение почты",
+      "EMAIL": "Почта",
+      "PASSWORD": "Пароль",
+      "BUTTON_SUBMIT": "Изменить почту",
+      "ALERT_SUCCESS": "Почта была успешно изменена"
+    }
+  },
+  "UPDATE_PASSWORD": {
+    "FORM": {
+      "TITLE": "Изменение пароля",
+      "CURRENT_PASSWORD": "Текущий пароль",
+      "NEW_PASSWORD": "Новый пароль",
+      "BUTTON_SUBMIT": "Изменить пароль",
+      "ALERT_SUCCESS": "Пароль был успешно изменён"
+    }
+  },
+  "ACCOUNT_INFO": {
+    "TITLE": "Информация об аккаунте",
+    "LOGIN": "Логин",
+    "NICKNAME": "Ник",
+    "EMAIL": "Почта",
+    "ID": "ID"
+  }
+}

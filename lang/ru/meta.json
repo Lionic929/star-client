@@ -1,0 +1,63 @@
+{
+  "DEFAULT": {
+    "TITLE": "Website",
+    "DESCRIPTION": "website",
+    "KEYWORDS": ""
+  },
+  "HOME": {
+    "TITLE": "Главная страница",
+    "DESCRIPTION": "Главная страница",
+    "KEYWORDS": ""
+  },
+  "LOGIN": {
+    "TITLE": "Авторизация",
+    "DESCRIPTION": "Вход в аккаунт",
+    "KEYWORDS": ""
+  },
+  "LOGOUT": {
+    "TITLE": "Выйти из аккаунта",
+    "DESCRIPTION": "Выход из аккаунта",
+    "KEYWORDS": ""
+  },
+  "SIGNUP": {
+    "TITLE": "Регистрация",
+    "DESCRIPTION": "Регистрация аккаунта",
+    "KEYWORDS": ""
+  },
+  "RECOVERY_ACCOUNT_RESET": {
+    "TITLE": "Восстановление аккаунта",
+    "DESCRIPTION": "Восстановление аккаунта"
+  },
+  "RECOVERY_ACCOUNT_CONFIRM": {
+    "TITLE": "Подтверждение аккаунта",
+    "DESCRIPTION": "Восстановление аккаунта"
+  },
+  "RECOVERY_ACCOUNT_UPDATE": {
+    "TITLE": "Обновление данных аккаунта",
+    "DESCRIPTION": "Восстановление пароля"
+  },
+  "SETTINGS": {
+    "TITLE": "Настройки",
+    "DESCRIPTION": "Настройки аккаунта"
+  },
+  "ERROR": {
+    "TITLE": "Упс... Ошибка!",
+    "DESCRIPTION": ""
+  },
+  "NOT_FOUND": {
+    "TITLE": "Страница не найдена",
+    "DESCRIPTION": "Страница не найдена"
+  },
+  "ACCESS_DENIED": {
+    "TITLE": "Доступ запрещён",
+    "DESCRIPTION": "Доступ к этой странице запрещён"
+  },
+  "SETTINGS_CONFIRM": {
+    "TITLE": "Подтверждение изменения",
+    "DESCRIPTION": "Подтверждение изменения"
+  },
+  "PAYMENT": {
+    "TITLE": "Платежи",
+    "DESCRIPTION": "Платежи"
+  }
+}

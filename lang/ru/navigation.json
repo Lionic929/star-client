@@ -1,0 +1,10 @@
+{
+  "PATH": {
+    "LOGIN": "Вход",
+    "SIGNUP": "Регистрация",
+    "HOME": "Главная",
+    "SETTINGS": "Настройки",
+    "RECOVERY_ACCOUNT_RESET": "Восстановление"
+  },
+  "BALANCE": "{{balance}}$"
+}

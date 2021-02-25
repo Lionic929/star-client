@@ -1,0 +1,12 @@
+{
+  "GDS_STATUS": {
+    "ACTIVE": "Active",
+    "DISABLED": "Disabled"
+  },
+
+  "ROLE_TYPE": {
+    "2": "SUPPORT",
+    "1": "USER",
+    "0": "BLOCKED"
+  }
+}
